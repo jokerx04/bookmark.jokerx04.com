@@ -1,0 +1,23 @@
+{
+	"name": "북마크 | jokerx04",
+	"short_name": "북마크",
+	"description": "자주 사용하는 AI 도구, 개발 리소스, 금융·부동산, 교육 및 온라인 툴을 카테고리·태그별로 빠르게 탐색하는 반응형 북마크 대시보드",
+	"lang": "ko",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#0b1120",
+	"theme_color": "#0b1120",
+	"categories": [
+		"productivity",
+		"utilities",
+		"reference"
+	],
+	"icons": [
+		{
+			"src": "./favicon.svg",
+			"sizes": "any",
+			"type": "image/svg+xml",
+			"purpose": "any maskable"
+		}
+	]
+}
