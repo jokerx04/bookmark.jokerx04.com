@@ -32,6 +32,20 @@
 				"target": "_blank"
 			},
 			{
+				"title": "킷제로",
+				"url": "https://kitzero.jokerx04.com",
+				"description": "사진 압축·모자이크·여권사진·HEIC 변환, PDF 합치기·분할·압축·서명, QR 코드·파비콘 생성, 글자 수 세기 등 다양한 작업을 서버 업로드 없이 브라우저에서 무료로 처리하는 이미지·PDF·유틸리티 웹 앱입니다.",
+				"tags": ["이미지변환", "PDF변환", "파일압축", "로컬처리", "온라인툴", "유틸리티", "jokerx04"],
+				"target": "_blank"
+			},
+			{
+				"title": "톡온도",
+				"url": "https://talkondo.jokerx04.com",
+				"description": "카톡·문자·DM 캡처를 서버 전송 없이 브라우저에서 로컬 OCR로 읽고 민감정보를 자동 마스킹해, 관계와 온도에 맞는 AI 맞춤 답장과 명절·생일·경조사 등 상황별 인사말을 생성해 주는 웹 앱입니다.",
+				"tags": ["AI답장", "카톡답장", "인사말생성", "로컬OCR", "관계온도", "생성형AI", "jokerx04"],
+				"target": "_blank"
+			},
+			{
 				"title": "북마크",
 				"url": "https://bookmark.jokerx04.com",
 				"description": "자주 사용하는 AI 도구, 개발 리소스, 금융·리서치 사이트 및 개인 운영 서비스를 체계적으로 분류하여 빠르게 접근할 수 있는 개인 북마크 대시보드입니다.",
